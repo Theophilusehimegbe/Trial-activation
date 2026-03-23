@@ -7,7 +7,7 @@
 ![Status](https://img.shields.io/badge/Status-Completed-2ea44f?style=for-the-badge)
 
 ---
-## 📚 Table of Contents
+##  Table of Contents
 
 - [Project Overview](#project-overview)
 - [Dataset Description](#dataset-description)
